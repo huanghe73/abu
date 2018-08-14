@@ -6,4 +6,5 @@ p.sh
 *.pyc
 tmp
 test.py
-/abupy/RomDataBu/df_kl.h5
+/abupy/RomDataBu/
+/gen/
